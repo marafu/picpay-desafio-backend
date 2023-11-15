@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="gE4e6rfNcS_uaxZ2d0MZ" name="Fluxo de transação">
-        <mxGraphModel dx="1473" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1606" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -92,7 +92,7 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="HDBPOV18R0nT2LrPAcoY-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
-                    <mxGeometry x="-231.00265822784812" y="-529" width="1191.0126582278483" height="1302" as="geometry"/>
+                    <mxGeometry x="-236.00265822784812" y="-531" width="1191.0126582278483" height="1302" as="geometry"/>
                 </mxCell>
                 <mxCell id="HDBPOV18R0nT2LrPAcoY-27" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="-104" y="-5" width="970" height="700" as="geometry"/>
@@ -157,6 +157,16 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="IqmSapKYsTxv8Ejgi-Nd-1" style="edgeStyle=none;html=1;fontSize=8;endArrow=classic;endFill=1;" edge="1" parent="1" source="PJDmcDdagbw5boKrrIEq-55" target="HDBPOV18R0nT2LrPAcoY-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="520" y="-253"/>
+                            <mxPoint x="41" y="-238"/>
+                            <mxPoint x="-94" y="-234"/>
+                            <mxPoint x="-113" y="129"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="PJDmcDdagbw5boKrrIEq-55" value="Sistema de notificação" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="602" y="-251" width="63.58" height="145" as="geometry"/>
                 </mxCell>
@@ -215,7 +225,7 @@
                 <mxCell id="SWnNDUKhZ4qhqCSgWOv_-30" value="Ações do Sistema" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
                     <mxGeometry x="414" y="400" width="400" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="SWnNDUKhZ4qhqCSgWOv_-31" value="1. Informar a conta de transferência" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
+                <mxCell id="SWnNDUKhZ4qhqCSgWOv_-31" value="1. Informar a conta de transferência e o valor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
                     <mxGeometry x="14" y="440" width="400" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="SWnNDUKhZ4qhqCSgWOv_-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
